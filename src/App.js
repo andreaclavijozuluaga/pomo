@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import './estilos/App.css';
+import './App.css';
 import Break from './components/Break.jsx';
 import Session from './components/Sessions.jsx';
 import TimeLeft from './components/TimeLeft.jsx';
