@@ -1,7 +1,7 @@
 import moment from 'moment';
 import momentDurationFormatSetup from 'moment-duration-format';
 import React from 'react';
-import '../timeleft.css'
+import '../estilos/timeleft.css'
 
 momentDurationFormatSetup(moment);
 
