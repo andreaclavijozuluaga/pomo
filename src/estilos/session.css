@@ -1,0 +1,21 @@
+#session-label{
+  font-size: 20px;
+  color: powderblue;
+  font-weight: bold;
+}
+
+#session-decrement{
+  font-size: 20px;
+  color: powderblue;
+  font-weight: bold;
+}
+#session-increment{
+  font-size: 20px;
+  color: powderblue;
+  font-weight: bold;
+}
+#session-length{
+  font-size: 20px;
+  color: powderblue;
+  font-weight: bold;
+}
